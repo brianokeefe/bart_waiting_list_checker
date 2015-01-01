@@ -1,0 +1,9 @@
+creds:
+  email: email@example.com
+  password: my-password
+
+station: fruitvale
+
+deliver:
+  from: bart_check@example.com
+  to: email@example.com
