@@ -20,3 +20,8 @@ with the intent of being run via cron.
 Now add the script to your crontab and get an email automatically when you move
 up in line for parking!
 
+### Station names
+
+Station names for your config can be found
+[here](https://github.com/brianokeefe/bart_waiting_list#available-stations).
+
